@@ -1,0 +1,6 @@
+[submodule "lab-bd-colab"]
+	url = https://github.com/dansotirakis/lab-bd-colab.git
+[submodule "lab-bd-r-library"]
+	url = https://github.com/dansotirakis/lab-bd-r-library.git
+[submodule "lab-bd-store"]
+	url = https://github.com/dansotirakis/lab-bd-store.git
